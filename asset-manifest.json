@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deployed_InstaChat/static/css/main.c89df728.css",
+    "main.js": "/Deployed_InstaChat/static/js/main.15f43f60.js",
+    "index.html": "/Deployed_InstaChat/index.html",
+    "main.c89df728.css.map": "/Deployed_InstaChat/static/css/main.c89df728.css.map",
+    "main.15f43f60.js.map": "/Deployed_InstaChat/static/js/main.15f43f60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89df728.css",
+    "static/js/main.15f43f60.js"
+  ]
+}
